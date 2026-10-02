@@ -19,20 +19,20 @@ class book
 {
     book b1;
     b1.book_id="001";
-    b1.book_name="C++ Primer";
-    b1.book_author="Stanley Lippman";
+    b1.book_name="python fundamental";
+    b1.book_author="vipin sharma";
     b1.display();
 
     book b2;
     b2.book_id="002";
-    b2.book_name="Effective C++";
-    b2.book_author="Scott Meyers";
+    b2.book_name=" C++ thoughts ";
+    b2.book_author="kuldeep yadav";
     b2.display();
 
     book b3;
-    b3.book_id="003";
-    b3.book_name="C++ Crash Course";
-    b3.book_author="Josh Lospinoso";
+    b3.book_id="333";
+    b3.book_name="C++ WorkBook";
+    b3.book_author="glenn maxwell";
     b3.display();
     return 0;
     
